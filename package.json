@@ -1,0 +1,37 @@
+{
+    "name": "css-grid-image-gallery",
+    "version": "1.0.0",
+    "description": "Compiling files",
+    "main": "script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marcelvigneault1420/CSS-Grid-Image-Gallery.git"
+    },
+    "author": "Marcel Vigneault",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/marcelvigneault1420/CSS-Grid-Image-Gallery/issues"
+    },
+    "homepage": "https://github.com/marcelvigneault1420/CSS-Grid-Image-Gallery#readme",
+    "dependencies": {
+        "gulp": "^4.0.0"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.26.3",
+        "del": "^4.1.0",
+        "gulp-cssnano": "^2.1.3",
+        "gulp-if": "^2.0.2",
+        "gulp-imagemin": "^5.0.3",
+        "gulp-rename": "^1.4.0",
+        "gulp-sass": "^4.0.2",
+        "gulp-terser": "^1.1.7",
+        "gulp-useref": "^3.1.6",
+        "imagemin-giflossy": "^5.1.10",
+        "imagemin-mozjpeg": "^8.0.0",
+        "imagemin-pngquant": "^7.0.0",
+        "imagemin-zopfli": "^6.0.0"
+    }
+}
