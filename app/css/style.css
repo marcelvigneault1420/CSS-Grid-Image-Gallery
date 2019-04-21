@@ -1,8 +1,10 @@
 html {
-  box-sizing: border-box; }
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
 
 * {
-  box-sizing: inherit;
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
   margin: 0; }
 
 .preview {
@@ -25,4 +27,6 @@ html {
   border: 3px solid white; }
   .preview button:hover {
     background-color: white;
-    color: red; }
+    color: #F0AB21; }
+
+/*# sourceMappingURL=style.css.map */
