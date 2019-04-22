@@ -90,7 +90,7 @@ gulp.task('build-img', () => {
             }),
             //jpg very light lossy, use vs jpegtran
             imageminMozjpeg({
-                quality: 40
+                quality: 20
             })
         ]))
         .pipe(rename({
