@@ -2,7 +2,7 @@
 
 A project in HTML5 CSS3 JavaScript to practice the what I've learned recently in CSS (CSS Grid and CSS3)
 
-It's a reproduction of a cssgrid.io example but reproduced without looking at his solution.
+The base HTML CSS is from a basic cssgrid.io example and I build around to learn Sass, Gulp, some npm packages, etc.
 
 ## To build
 - run `git clone https://github.com/marcelvigneault1420/CSS-Grid-Image-Gallery.git`
